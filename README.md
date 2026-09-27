@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi👋! My name is .Ans and I'm a front-end engineer , from france</h2>
+<h2 data-importer="text" align="left">Hi👋! My name is Ans and I'm a front-end engineer ,i design and build user interfaces, im from france</h2>
 
 ###
 
